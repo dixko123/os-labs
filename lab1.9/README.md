@@ -7,7 +7,9 @@ MAKE SURE ALL FILES ARE IN THE SAME DIRECTORY!
 to complie this code use the following comands:
 
   $ gcc -o multiplier.o multiplier.c -pthread
-  &./multiplier.o
+  
+  
+  $./multiplier.o
   
 YOU WILL SEE THE RESULT.dat FILE ON THE SAME DIRECTORY !
   
